@@ -16,3 +16,5 @@
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.QuotesPage.xaml.g.cs
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.StackPage.xaml
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.StackPage.xaml.g.cs
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.WelcomePage.xaml
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.WelcomePage.xaml.g.cs

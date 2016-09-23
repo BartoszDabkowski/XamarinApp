@@ -11,7 +11,7 @@
 			VerticalOptions="Center"
 			HorizontalOptions="Center">
 		<StackLayout>
-			<Image Source="http://placeholder.it/100x100" />
+			<Image Source="http://placehold.it/100x100" />
 			<Label Text="Label 1" />
 		</StackLayout>
 
@@ -21,7 +21,7 @@
 		</StackLayout>
 		
 		<StackLayout>
-			<Image Source="http://placeholder.it/100x100" />
+			<Image Source="http://placehold.it/100x100" />
 			<Label Text="Label 3" />
 		</StackLayout>
 	</StackLayout>
