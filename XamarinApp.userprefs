@@ -1,1 +1,14 @@
-﻿<Properties StartupConfiguration="{8B45521C-A9E6-40B4-8E76-EC17F564BB35}|Default" />
+﻿<Properties StartupConfiguration="{8B45521C-A9E6-40B4-8E76-EC17F564BB35}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="XamarinApp/GreetPage.xaml.cs" Line="15" Column="19" />
+      <File FileName="XamarinApp/QuotesPage.xaml.cs" Line="28" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XamarinApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7C1B7AF8-5D83-4F2B-8C3E-A9EF3CB59F79" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

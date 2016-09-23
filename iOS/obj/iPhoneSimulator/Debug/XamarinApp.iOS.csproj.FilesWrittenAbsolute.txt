@@ -1,0 +1,15 @@
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/bin/iPhoneSimulator/Debug/XamarinApp.iOS.exe.mdb
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/bin/iPhoneSimulator/Debug/XamarinApp.iOS.exe
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/obj/iPhoneSimulator/Debug/XamarinApp.iOS.exe
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/obj/iPhoneSimulator/Debug/XamarinApp.iOS.exe.mdb
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/bin/iPhoneSimulator/Debug/XamarinApp.dll
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/iOS/bin/iPhoneSimulator/Debug/XamarinApp.dll.mdb
