@@ -14,3 +14,5 @@
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/bin/Debug/Xamarin.Forms.Xaml.dll
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.QuotesPage.xaml
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.QuotesPage.xaml.g.cs
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.StackPage.xaml
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.StackPage.xaml.g.cs

@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{8B45521C-A9E6-40B4-8E76-EC17F564BB35}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="XamarinApp/GreetPage.xaml.cs" Line="15" Column="19" />
-      <File FileName="XamarinApp/QuotesPage.xaml.cs" Line="28" Column="4" />
+      <File FileName="XamarinApp/StackPage.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
