@@ -18,3 +18,5 @@
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.StackPage.xaml.g.cs
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.WelcomePage.xaml
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.WelcomePage.xaml.g.cs
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.InstagramPage.xaml
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.InstagramPage.xaml.g.cs
