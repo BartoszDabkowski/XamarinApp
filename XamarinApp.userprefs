@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{8B45521C-A9E6-40B4-8E76-EC17F564BB35}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinApp/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="XamarinApp/App.xaml.cs" Line="11" Column="22" />
+      <File FileName="XamarinApp/App.xaml.cs" Line="11" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
