@@ -8,7 +8,7 @@ namespace XamarinApp
 		{
 			InitializeComponent();
 
-			MainPage = new CreditPage();
+			MainPage = new ImagePage();
 		}
 
 		protected override void OnStart()

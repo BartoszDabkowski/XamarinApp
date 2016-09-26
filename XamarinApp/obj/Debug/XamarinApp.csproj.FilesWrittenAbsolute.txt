@@ -28,3 +28,7 @@
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.AbsolutePage.xaml.g.cs
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.CreditPage.xaml
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.CreditPage.xaml.g.cs
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.RelativePage.xaml
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.ImagePage.xaml
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.RelativePage.xaml.g.cs
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.ImagePage.xaml.g.cs

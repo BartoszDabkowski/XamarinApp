@@ -27,7 +27,7 @@
 				BackgroundColor="#1695a3"
 				BorderRadius="15"
 				FontSize="15"
-				FontAttribute="Bold"/>
+				FontAttributes="Bold"/>
 		</StackLayout>
 		<StackLayout
 				Padding="40, 0" 
