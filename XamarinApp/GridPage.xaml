@@ -10,8 +10,14 @@
 			RowSpacing="20">
 		<Grid.RowDefinitions>
 			<RowDefinition Height="100" />
-			<RowDefinition Height="100" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="2*" />
 		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="Auto" /> 
+			<ColumnDefinition Width="*" /> 
+			<ColumnDefinition Width="2*" /> 
+		</Grid.ColumnDefinitions>
 		<Label Grid.Row="0" Grid.Column="0" Text="Label 1" BackgroundColor="Silver"/>
 		<Label Grid.Row="0" Grid.Column="1" Text="Label 2" BackgroundColor="Silver"/>
 		<Label Grid.Row="1" Grid.Column="0" Text="Label 3" BackgroundColor="Silver"/>

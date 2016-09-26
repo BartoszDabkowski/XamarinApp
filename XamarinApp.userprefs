@@ -1,9 +1,5 @@
 ﻿<Properties StartupConfiguration="{8B45521C-A9E6-40B4-8E76-EC17F564BB35}|Default">
-  <MonoDevelop.Ide.Workbench>
-    <Files>
-      <File FileName="XamarinApp/GridPage.xaml.cs" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.XamarinApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7C1B7AF8-5D83-4F2B-8C3E-A9EF3CB59F79" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
