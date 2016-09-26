@@ -8,7 +8,7 @@ namespace XamarinApp
 		{
 			InitializeComponent();
 
-			MainPage = new GridPage();
+			MainPage = new AbsolutePage();
 		}
 
 		protected override void OnStart()

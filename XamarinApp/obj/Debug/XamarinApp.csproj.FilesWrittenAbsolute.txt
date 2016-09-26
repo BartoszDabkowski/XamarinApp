@@ -24,3 +24,5 @@
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.GridPage.xaml.g.cs
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.PhonePage.xaml
 /Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.PhonePage.xaml.g.cs
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.AbsolutePage.xaml
+/Users/BartoszDabkowski/Documents/Github/XamarinApp/XamarinApp/obj/Debug/XamarinApp.AbsolutePage.xaml.g.cs

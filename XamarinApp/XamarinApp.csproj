@@ -51,6 +51,9 @@
     <EmbeddedResource Include="PhonePage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="AbsolutePage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -80,6 +83,9 @@
     </Compile>
     <Compile Include="PhonePage.xaml.cs">
       <DependentUpon>PhonePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AbsolutePage.xaml.cs">
+      <DependentUpon>AbsolutePage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
