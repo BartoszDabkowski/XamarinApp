@@ -57,6 +57,9 @@
     <EmbeddedResource Include="CreditPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="RelativePage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -92,6 +95,9 @@
     </Compile>
     <Compile Include="CreditPage.xaml.cs">
       <DependentUpon>CreditPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RelativePage.xaml.cs">
+      <DependentUpon>RelativePage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
